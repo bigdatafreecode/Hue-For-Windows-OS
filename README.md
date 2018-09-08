@@ -11,4 +11,4 @@ Download the CygWin file from "http://bit.ly/2NpbSfO". In the file "CygWin" in i
 
 May be useful. :D
 
-https://github.com/bigdatafreecode/Hue-For-Windows-OS/blob/master/Install%20Hue%20on%20Windows%20OS.png
+![Install Hue on Windows OS](https://github.com/bigdatafreecode/Hue-For-Windows-OS/blob/master/Install%20Hue%20on%20Windows%20OS.png)
